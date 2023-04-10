@@ -1,4 +1,4 @@
-## SQL_for_Data_Science
+## Analysis of Bank Customers Using SQL
 
 Creation of a denormalized table that contains behavioral indicators on the customers, calculated on the basis of transactions and products ownership. The aim is to create the features for a possible supervised machine learning model.
 
